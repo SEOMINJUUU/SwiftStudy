@@ -1,21 +1,28 @@
 # Swift 5.5 
 <img src="https://user-images.githubusercontent.com/26273678/131319812-49bf0af6-039b-45d1-9864-06afea73d7ff.png" height=80 />
 
-> https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html
+> [공식 문서](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html)
 
-
+## 🗓 계획 
+`2, 3, 4, 7, 8, 9, 10, 13, 14, 17`
 
 |8월 30일(월)|8월 31일(화)|9월 1일(수)|9월 2일(목)|9월 3일(금)|
 |:-:|:-:|:-:|:-:|:-:|
-|1, 2| | |||
+| 2, 3 | | | | |
+
+`18, 21, 22, 23, 25, 26, 27`
 
 |9월 5일(월)|9월 6일(화)|9월 7일(수)|9월 8일(목)|9월 9일(금)|
 |:-:|:-:|:-:|:-:|:-:|
 | | | | 휴가 | 휴가 |
 
+<!--
+미정
+
 |9월 12일(월)|9월 13일(화)|9월 14일(수)|9월 15일(목)|9월 16일(금)|
 |:-:|:-:|:-:|:-:|:-:|
 | | | | | |
+-->
 
 1. [The Basics](#the-basics)
 2. [Basic Operators](#basic-operators)
@@ -50,61 +57,57 @@
 
 ## The Basics   
 
+## Basic Operators ✔️
 
-
-
-
-## Basic Operators
-
-## Strings and Characters
-
-## Collection Types
+## Strings and Characters ✔️
+ 
+## Collection Types ✔️
 
 ## Control Flow
 
 ## Functions
 
-## Closures
+## Closures ✔️
 
-## Enumerations
+## Enumerations ✔️
 
-## Structures and Classes
+## Structures and Classes ✔️
 
-## Properties
+## Properties ✔️
 
 ## Methods
 
 ## Subscripts
 
-## Inheritance
+## Inheritance ✔️
 
-## Initialization
+## Initialization ✔️
 
 ## Deinitialization
 
-## Optional Chaining
+## Optional Chaining ✔️
 
-## Error Handling
+## Error Handling ✔️
 
-## Concurrency
+## Concurrency ✔️
 
 ## Type Casting
 
 ## Nested Types
 
-## Extensions
+## Extensions ✔️
 
-## Protocols
+## Protocols ✔️
 
-## Generics
+## Generics ✔️
 
 ## Opaque Types
 
-## Automatic Reference Counting
+## Automatic Reference Counting ✔️
 
-## Memory Safety
+## Memory Safety ✔️
 
-## Access Control
+## Access Control ✔️
 
 ## Advanced Operators
 
