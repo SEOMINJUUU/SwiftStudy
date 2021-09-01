@@ -1,20 +1,20 @@
-# Swift 5.5 
+# Swift 5.5 Language Guide
 <img src="https://user-images.githubusercontent.com/26273678/131319812-49bf0af6-039b-45d1-9864-06afea73d7ff.png" height=80 />
 
-> [공식 문서](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html)
+> 🔗 [공식 문서](https://docs.swift.org/swift-book/LanguageGuide)
 
 ## 🗓 계획 
-`2, 3, 4, 7, 8, 9, 10, 13, 14, 17`
+`2, 3, 4, 7, 8, 9, 10, 13, 14, 16, 17`
 
 |8월 30일(월)|8월 31일(화)|9월 1일(수)|9월 2일(목)|9월 3일(금)|
 |:-:|:-:|:-:|:-:|:-:|
-| 1(중단) | 2, 3 | | | |
+| 1(보류) | 2, 3 | 4, 7, 8 | 9, 10, 13 | 14, 16, 17 |
 
 `18, 21, 22, 23, 25, 26, 27`
 
-|9월 5일(월)|9월 6일(화)|9월 7일(수)|9월 8일(목)|9월 9일(금)|
+|9월 6일(월)|9월 7일(화)|9월 8일(수)|9월 9일(목)|9월 10일(금)|
 |:-:|:-:|:-:|:-:|:-:|
-| | | | 휴가 | 휴가 |
+| 18, 21, 22 | 23, 25 | 26, 27 | 휴가 | 휴가 |
 
 <!--
 미정
@@ -24,40 +24,14 @@
 | | | | | |
 -->
 
-1. [The Basics](#the-basics)
-2. [Basic Operators](#basic-operators)
-3. [Strings and Characters](#strings-and-characters)
-4. [Collection Types](#collection-types)
-5. [Control Flow](#control-flow)
-6. [Functions](#functions)
-7. [Closures](#closures)
-8. [Enumerations](#enumerations)
-9. [Structures and Classes](#structures-and-classes)
-10. [Properties](#properties)
-11. [Methods](#methods)
-12. [Subscripts](#subscripts)
-13. [Inheritance](#inheritance)
-14. [Initialization](#initialization)
-15. [Deinitialization](#deinitialization)
-16. [Optional Chaining](#optional-chaining)
-17. [Error Handling](#error-handling)
-18. [Concurrency](#concurrency)
-19. [Type Casting](#type-casting)
-20. [Nested Types](#nested-types)
-21. [Extensions](#extensions)
-22. [Protocols](#protocols)
-23. [Generics](#generics)
-24. [Opaque Types](#opaque-types)
-25. [Automatic Reference Counting](#automatic-reference-counting)
-26. [Memory Safety](#memory-safety)
-27. [Access Control](#access-control)
-28. [Advanced Operators](#advanced-operators)
-
 ---
 
 ## The Basics   
+[🔗 wiki link](https://github.com/SEOMINJUUU/SwiftStudy/wiki/1.-The-Basics)
+[미완, 작업 보류]
 
 ## Basic Operators ✔️
+[🔗 wiki link](https://github.com/SEOMINJUUU/SwiftStudy/wiki/2.-Basic-Operators)
 
 ## Strings and Characters ✔️
  
