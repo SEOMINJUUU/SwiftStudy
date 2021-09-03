@@ -34,54 +34,71 @@
 [🔗 wiki link](https://github.com/SEOMINJUUU/SwiftStudy/wiki/2.-Basic-Operators)
 
 ## Strings and Characters ✔️
- 
+[🔗 wiki link](https://github.com/SEOMINJUUU/SwiftStudy/wiki/3.-Strings-and-Characters)
+
 ## Collection Types ✔️
+[🔗 wiki link](https://github.com/SEOMINJUUU/SwiftStudy/wiki/4.-Collection-Types)
 
 ## Control Flow
 
 ## Functions
 
 ## Closures ✔️
+[🔗 wiki link](https://github.com/SEOMINJUUU/SwiftStudy/wiki/7.-Closure)
 
 ## Enumerations ✔️
+[🔗 wiki link](https://github.com/SEOMINJUUU/SwiftStudy/wiki/8.-Enumerations)
 
 ## Structures and Classes ✔️
+<!-- [🔗 wiki link]() -->
 
 ## Properties ✔️
+<!-- [🔗 wiki link]() -->
 
 ## Methods
 
 ## Subscripts
 
 ## Inheritance ✔️
+<!-- [🔗 wiki link]() -->
 
 ## Initialization ✔️
+<!-- [🔗 wiki link]() -->
 
 ## Deinitialization
 
 ## Optional Chaining ✔️
+<!-- [🔗 wiki link]() -->
 
 ## Error Handling ✔️
+<!-- [🔗 wiki link]() -->
 
 ## Concurrency ✔️
+<!-- [🔗 wiki link]() -->
 
 ## Type Casting
 
 ## Nested Types
 
 ## Extensions ✔️
+<!-- [🔗 wiki link]() -->
 
 ## Protocols ✔️
+<!-- [🔗 wiki link]() -->
 
 ## Generics ✔️
+<!-- [🔗 wiki link]() -->
 
 ## Opaque Types
 
 ## Automatic Reference Counting ✔️
+<!-- [🔗 wiki link]() -->
 
 ## Memory Safety ✔️
+<!-- [🔗 wiki link]() -->
 
 ## Access Control ✔️
+<!-- [🔗 wiki link]() -->
 
 ## Advanced Operators
 
