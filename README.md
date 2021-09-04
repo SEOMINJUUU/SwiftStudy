@@ -50,7 +50,7 @@
 [🔗 wiki link](https://github.com/SEOMINJUUU/SwiftStudy/wiki/8.-Enumerations)
 
 ## Structures and Classes ✔️
-<!-- [🔗 wiki link]() -->
+[🔗 wiki link](https://github.com/SEOMINJUUU/SwiftStudy/wiki/9.-Classes-and-Structures)
 
 ## Properties ✔️
 <!-- [🔗 wiki link]() -->
@@ -60,7 +60,7 @@
 ## Subscripts
 
 ## Inheritance ✔️
-<!-- [🔗 wiki link]() -->
+[🔗 wiki link](https://github.com/SEOMINJUUU/SwiftStudy/wiki/13.-Inheritance)
 
 ## Initialization ✔️
 <!-- [🔗 wiki link]() -->
@@ -71,7 +71,7 @@
 <!-- [🔗 wiki link]() -->
 
 ## Error Handling ✔️
-<!-- [🔗 wiki link]() -->
+[🔗 wiki link](https://github.com/SEOMINJUUU/SwiftStudy/wiki/17.-Error-Handling)
 
 ## Concurrency ✔️
 <!-- [🔗 wiki link]() -->
