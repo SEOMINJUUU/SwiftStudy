@@ -1,8 +1,10 @@
 # Swift 5.5 Language Guide
 <img src="https://user-images.githubusercontent.com/26273678/131319812-49bf0af6-039b-45d1-9864-06afea73d7ff.png" height=80 />
 
-> 🔗 [공식 문서](https://docs.swift.org/swift-book/LanguageGuide)
-
+🔗 [공식 문서](https://docs.swift.org/swift-book/LanguageGuide)
+<br />
+<br />
+<br />
 ## 🗓 계획 
 `2, 3, 4, 7, 8, 9, 10, 13, 14, 16, 17`
 
@@ -24,7 +26,9 @@
 | | | | | |
 -->
 
----
+<br />
+<br />
+<br />
 
 ## The Basics   
 [🔗 wiki link](https://github.com/SEOMINJUUU/SwiftStudy/wiki/1.-The-Basics)
@@ -53,7 +57,7 @@
 [🔗 wiki link](https://github.com/SEOMINJUUU/SwiftStudy/wiki/9.-Classes-and-Structures)
 
 ## Properties ✔️
-<!-- [🔗 wiki link]() -->
+[🔗 wiki link](https://github.com/SEOMINJUUU/SwiftStudy/wiki/10.-Properties)
 
 ## Methods
 
@@ -68,7 +72,7 @@
 ## Deinitialization
 
 ## Optional Chaining ✔️
-<!-- [🔗 wiki link]() -->
+[🔗 wiki link](https://github.com/SEOMINJUUU/SwiftStudy/wiki/16.-Optional-Chaining)
 
 ## Error Handling ✔️
 [🔗 wiki link](https://github.com/SEOMINJUUU/SwiftStudy/wiki/17.-Error-Handling)
