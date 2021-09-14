@@ -88,7 +88,7 @@
 [🔗 wiki link](https://github.com/SEOMINJUUU/SwiftStudy/wiki/21.-Extensions)
 
 ## Protocols ✔️
-<!-- [🔗 wiki link]() -->
+[🔗 wiki link](https://github.com/SEOMINJUUU/SwiftStudy/wiki/22.-Protocols)
 
 ## Generics ✔️
 <!-- [🔗 wiki link]() -->
