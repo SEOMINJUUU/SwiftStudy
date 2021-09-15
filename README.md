@@ -91,7 +91,7 @@
 [🔗 wiki link](https://github.com/SEOMINJUUU/SwiftStudy/wiki/22.-Protocols)
 
 ## Generics ✔️
-<!-- [🔗 wiki link]() -->
+[🔗 wiki link](https://github.com/SEOMINJUUU/SwiftStudy/wiki/23.-Generics)
 
 ## Opaque Types
 
