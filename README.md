@@ -99,7 +99,7 @@
 <!-- [🔗 wiki link]() -->
 
 ## Memory Safety ✔️
-<!-- [🔗 wiki link]() -->
+[🔗 wiki link](https://github.com/SEOMINJUUU/SwiftStudy/wiki/26.-Memory-Safety)
 
 ## Access Control ✔️
 <!-- [🔗 wiki link]() -->
